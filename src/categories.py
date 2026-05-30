@@ -46,5 +46,17 @@ CATEGORIES = {
         ".css",
         ".json",
         ".sql"
+    ],
+
+    "executável": [
+        ".exe",
+        ".msi",
+        ".bat",
+        ".com",
+        ".cmd",
+        ".app",
+        ".dmg",
+        ".sh",
+        ".bin"
     ]
 }
