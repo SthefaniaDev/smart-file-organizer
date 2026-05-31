@@ -1,54 +1,89 @@
 CATEGORIES = {
-    "Documentos": [
+    "Documents": [
         ".pdf",
         ".doc",
         ".docx",
         ".txt",
+        ".rtf",
+        ".odt",
         ".xlsx",
         ".xls",
+        ".csv",
+        ".ods",
         ".ppt",
-        ".pptx"
+        ".pptx",
+        ".odp"
     ],
 
-    "Imagens": [
+    "Images": [
         ".jpg",
         ".jpeg",
         ".png",
         ".gif",
         ".webp",
-        ".svg"
+        ".svg",
+        ".bmp",
+        ".tiff",
+        ".ico",
+        ".heic"
     ],
 
     "Videos": [
         ".mp4",
         ".avi",
         ".mkv",
-        ".mov"
+        ".mov",
+        ".wmv",
+        ".flv",
+        ".webm",
+        ".mpeg",
+        ".mpg"
     ],
 
     "Audios": [
         ".mp3",
         ".wav",
-        ".ogg"
+        ".ogg",
+        ".flac",
+        ".aac",
+        ".m4a",
+        ".wma"
     ],
 
-    "Compactados": [
+    "Compressed": [
         ".zip",
         ".rar",
-        ".7z"
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
     ],
 
-    "Codigos": [
+    "Code": [
         ".py",
         ".js",
         ".ts",
         ".html",
         ".css",
         ".json",
-        ".sql"
+        ".xml",
+        ".sql",
+        ".java",
+        ".c",
+        ".cpp",
+        ".cs",
+        ".php",
+        ".rb",
+        ".go",
+        ".rs",
+        ".jsx",
+        ".tsx",
+        ".md",
+        ".yml",
+        ".yaml"
     ],
 
-    "executável": [
+    "Executables": [
         ".exe",
         ".msi",
         ".bat",
@@ -57,6 +92,9 @@ CATEGORIES = {
         ".app",
         ".dmg",
         ".sh",
-        ".bin"
+        ".bin",
+        ".deb",
+        ".rpm",
+        ".apk"
     ]
 }
